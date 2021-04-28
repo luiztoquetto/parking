@@ -1,0 +1,1 @@
+## Parking lot system, developed with TypeScript.
